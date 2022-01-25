@@ -1,0 +1,27 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.item {
+}
+
+.item:nth-child(1) {
+  background-color: red;
+}
+
+.item:nth-child(2) {
+  background-color: green;
+}
+
+.item:nth-child(3) {
+  background-color: blue;
+}
+
+.inner:nth-child(1) {
+  background-color: aqua;
+}
+
+.inner:nth-child(2) {
+  background-color: yellow;
+}
